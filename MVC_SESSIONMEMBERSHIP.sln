@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_SESSIONMEMBERSHIP.WEBUI", "MVC_SESSIONMEMBERSHIP.WEBUI\MVC_SESSIONMEMBERSHIP.WEBUI.csproj", "{FFE94B6C-0B01-4DFE-B6D9-F9DAC4AE3FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_SESSIONMEMBERSHIP.DATA", "MVC_SESSIONMEMBERSHIP.DATA\MVC_SESSIONMEMBERSHIP.DATA.csproj", "{1CAA22B4-1C44-44DF-9BB4-087846488F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_SESSIONMEMBERSHIP.DAL", "MVC_SESSIONMEMBERSHIP.DAL\MVC_SESSIONMEMBERSHIP.DAL.csproj", "{69A86E4D-E654-4E08-BB76-4583C6B924BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE94B6C-0B01-4DFE-B6D9-F9DAC4AE3FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE94B6C-0B01-4DFE-B6D9-F9DAC4AE3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE94B6C-0B01-4DFE-B6D9-F9DAC4AE3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE94B6C-0B01-4DFE-B6D9-F9DAC4AE3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAA22B4-1C44-44DF-9BB4-087846488F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAA22B4-1C44-44DF-9BB4-087846488F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAA22B4-1C44-44DF-9BB4-087846488F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAA22B4-1C44-44DF-9BB4-087846488F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A86E4D-E654-4E08-BB76-4583C6B924BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A86E4D-E654-4E08-BB76-4583C6B924BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A86E4D-E654-4E08-BB76-4583C6B924BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A86E4D-E654-4E08-BB76-4583C6B924BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

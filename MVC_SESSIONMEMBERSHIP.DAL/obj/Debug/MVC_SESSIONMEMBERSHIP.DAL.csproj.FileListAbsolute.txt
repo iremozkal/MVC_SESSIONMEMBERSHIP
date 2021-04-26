@@ -1,0 +1,24 @@
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll.config
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.pdb
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.xml
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.csprojResolveAssemblyReference.cache
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll.config
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DAL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DAL\obj\Debug\MVC_SESSIONMEMBERSHIP.DAL.pdb

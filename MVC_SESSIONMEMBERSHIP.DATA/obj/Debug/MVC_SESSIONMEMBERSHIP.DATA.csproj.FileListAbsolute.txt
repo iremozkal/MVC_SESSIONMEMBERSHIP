@@ -1,0 +1,10 @@
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb
+c:\users\irem\documents\visual studio 2012\Projects\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\bin\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\Bilge Adam\MVC_SESSIONMEMBERSHIP\MVC_SESSIONMEMBERSHIP.DATA\obj\Debug\MVC_SESSIONMEMBERSHIP.DATA.pdb

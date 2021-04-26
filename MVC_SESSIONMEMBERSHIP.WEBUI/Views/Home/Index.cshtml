@@ -1,0 +1,77 @@
+﻿@{
+    Layout = null;
+}
+
+@using MVC_SESSIONMEMBERSHIP.DATA.Model_Entity;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Assets/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Assets/Content/bootstrap-grid.css" rel="stylesheet" />
+    <script src="~/Assets/Scripts/jquery-3.5.1.js"></script>
+    <script src="~/Assets/Scripts/bootstrap.js"></script>
+    <title>Home</title>
+    <style type="text/css">
+        .gotoPanel .panel a, .goLogin a {
+            color: white;
+            margin-top: 7px;
+            margin-right: 10px;
+        }
+        .nav-link, .welcome {
+            color: white;
+        }
+            .welcome .sub {
+                color: orange;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-primary bg-primary" style="padding: 20px 75px;">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a class="nav-item nav-link" href="@Url.Action("Index", "Home")">Home</a></li>
+                <li class="nav-item"><a class="nav-item nav-link" href="#">Products</a></li>
+                <li class="nav-item"><a class="nav-item nav-link" href="#">Contact</a></li>
+            </ul>
+            <ul class="navbar-nav">
+                @{
+                    WebUser incoming = Session["UserInfo"] as WebUser;
+
+                    if (incoming == null)
+                    {
+                        <li class="nav-item goLogin">
+                            <a class="nav-item nav-link btn btn-info" href="@Url.Action("Login", "Account")">LOGIN</a>
+                        </li>
+                    }
+                    else
+                    {
+                    <li class="nav-item text-right gotoPanel">
+                        <span class="welcome">Welcome, <span class="sub">@incoming.NameSurname</span></span>
+                        <div class="row text-center justify-content-center panel">
+                            @if (incoming.WebRolId == 1)
+                            {
+                                <a class="nav-item nav-link btn btn-info" href="@Url.Action("Index", "Admin")">Admin Panel</a>
+                            }
+                            else if (incoming.WebRolId == 2)
+                            {
+                                <a class="nav-item nav-link btn btn-info" href="@Url.Action("Index", "User")">User Panel</a>
+                            }
+                            <a class="nav-item nav-link btn btn-warning" href="@Url.Action("Logout", "Account")">Logout</a>
+                        </div>
+                    </li>   
+                    }
+                }
+            </ul>
+        </nav>
+    </header>
+
+    <div style="padding: 40px 85px;">
+        <div class="">
+            <p>Anyone welcome here!</p>
+        </div>
+    </div>
+
+</body>
+</html>
